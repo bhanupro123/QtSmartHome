@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>DrawerItem.qml</file>
+        <file>images/watertap.png</file>
+        <file>images/emptywatertank.png</file>
+        <file>images/water-pump.png</file>
+        <file>images/water-pump-white.png</file>
+        <file>images/lampfullgradiant.png</file>
+        <file>images/lampgradiant.png</file>
+        <file>images/tap-water256.png</file>
+        <file>images/tap-water-white.png</file>
+        <file>images/water-tank-white.png</file>
+        <file>images/garland.png</file>
+        <file>images/garlandwhite.png</file>
+        <file>Constants.qml</file>
+    </qresource>
+</RCC>
